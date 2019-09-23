@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>audi23.jpg</filename>
+	<path>E:/E_Drive/dataset/Audi/test/audi23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi Logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>102</ymin>
+			<xmax>459</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>
