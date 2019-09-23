@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>audi7.jpg</filename>
+	<path>E:/E_Drive/dataset/Audi/train/audi7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi Logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>66</ymin>
+			<xmax>1670</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+</annotation>
