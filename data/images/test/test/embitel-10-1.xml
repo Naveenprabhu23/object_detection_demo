@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>embitel-10-1.jpg</filename>
+	<path>E:/ML_Data/Test/embitel-10-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Embitel Logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>106</ymin>
+			<xmax>189</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
