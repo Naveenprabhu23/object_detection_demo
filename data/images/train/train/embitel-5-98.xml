@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>embitel-5-98.jpg</filename>
+	<path>E:/ML_Data/Train/embitel-5-98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Embitel Logo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>93</ymin>
+			<xmax>243</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
